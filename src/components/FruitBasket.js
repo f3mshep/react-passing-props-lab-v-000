@@ -3,12 +3,6 @@ import React from 'react';
 import Filter from './Filter';
 import FilteredFruitList from './FilteredFruitList.js';
 
-let debugging = (props) =>{
-  debugger
-  return <p></p>
-}
-
-
 const FruitBasket = props => (
 
   <div className="fruit-basket">
